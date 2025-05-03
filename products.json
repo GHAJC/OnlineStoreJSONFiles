@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "ProductID": "1",
+            "ProductName": "Apple",
+            "ProductDescrip": "An apple is a fruit",
+            "ProductPrice": "3.00",
+            "ProductQuantity": "20"
+        },
+        {
+            "ProductID": "2",
+            "ProductName": "Nintendo Switch",
+            "ProductDescrip": "Its wario time punks",
+            "ProductPrice": "450.00",
+            "ProductQuantity": "2"
+        },
+        {
+            "ProductID": "3",
+            "ProductName": "Souls of the Damned",
+            "ProductDescrip": "Farmed naturally from the local DMV",
+            "ProductPrice": "666.66",
+            "ProductQuantity": "66"
+        }
+    ]
+}

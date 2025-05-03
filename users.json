@@ -1,0 +1,18 @@
+{
+    "users":[
+        {
+            "UserID": "1",
+            "UserName": "Admin",
+            "UserPassword": "passwordAdmin",
+            "UserBirthday": "1999-01-01",
+            "canStock": "1"
+        },
+        {
+            "UserID": "2",
+            "UserName": "bobby",
+            "UserPassword": "password1",
+            "UserBirthday": "2000-02-02",
+            "canStock": "0"
+        }
+    ]
+}
